@@ -151,7 +151,7 @@ Possible features that can be added later:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Janvi chauhan**
 
 This project was created as a React learning project to practice modern frontend development and understand how different React libraries work together.
 
